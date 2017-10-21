@@ -26,3 +26,10 @@
 - **Module**: `multiples_of_3_and_5.py`
 - **Tests**: `test_multiples_of_3_and_5.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/multiples-of-3-and-5/train/python)
+
+
+**Mutual Recursion (6th kyu)**
+
+- **Module**: `mutual_recursion.py`
+- **Tests**: `test_mutual_recursion.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/mutual-recursion/train/python)
