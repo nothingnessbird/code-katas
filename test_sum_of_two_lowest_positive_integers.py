@@ -18,7 +18,7 @@ SUM_NUMS = [
 
 
 @pytest.mark.parametrize('numbers, result', SUM_NUMS)
-def test_fibonacci(numbers, result):
+def test_sum_two_smallest_numbers(numbers, result):
     """Test for summing two lowest numbers in list."""
     from sum_of_two_lowest_positive_integers import sum_two_smallest_numbers
     assert sum_two_smallest_numbers(numbers) == result
