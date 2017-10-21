@@ -19,3 +19,10 @@
 - **Module**: `good_vs_evil.py`
 - **Tests**: `test_good_vs_evil.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/good-vs-evil/train/python)
+
+
+**Multiples of 3 and 5 (6th kyu)**
+
+- **Module**: `multiples_of_3_and_5.py`
+- **Tests**: `test_multiples_of_3_and_5.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/multiples-of-3-and-5/train/python)
