@@ -33,3 +33,10 @@
 - **Module**: `mutual_recursion.py`
 - **Tests**: `test_mutual_recursion.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/mutual-recursion/train/python)
+
+
+**Collatz (6th kyu)**
+
+- **Module**: `collatz.py`
+- **Tests**: `test_collatz.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/collatz/train/python)
