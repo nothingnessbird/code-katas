@@ -47,3 +47,10 @@
 - **Module**: `sum_terms.py`
 - **Tests**: `test_sum_terms.py`
 - **URL**: [challenge url](http://www.codewars.com/kata/sum-of-the-first-nth-term-of-series/train/python)
+
+
+**String Pyramid (6th kyu)**
+
+- **Module**: `string_pyramid.py`
+- **Tests**: `test_string_pyramid.py`
+- **URL**: [challenge url](http://www.codewars.com/kata/string-pyramid/train/python)
