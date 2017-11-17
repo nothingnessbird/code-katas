@@ -54,3 +54,11 @@
 - **Module**: `string_pyramid.py`
 - **Tests**: `test_string_pyramid.py`
 - **URL**: [challenge url](http://www.codewars.com/kata/string-pyramid/train/python)
+
+
+**Proper Parenthetics**
+
+- **Module**: `proper_parenthetics.py`
+- **Dependency**: `stack.py`
+- **Tests**: `test_proper_parenthetics.py`
+- **URL**: [assignment url](https://codefellows.github.io/sea-python-401d6/assignments/proper_parenthetics.html)
